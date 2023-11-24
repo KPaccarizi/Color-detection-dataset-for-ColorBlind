@@ -9,9 +9,12 @@ The focus is on color detection for individuals with color blindness (ColorBlind
 1. **Dataset Analysis:**
    - Understanding and utilization of the RGB dataset for color representation.
    - Identification of the three main colors affecting individuals with color blindness.
+     ![Picture1](https://github.com/KPaccarizi/Color-detection-dataset-for-ColorBlind/assets/26025929/5024d617-9139-4b1f-8692-02fd220f332c)
+
 
 2. **Comparison:**
    - Visual representation comparing normal color vision with different types of color blindness (ColorBlindness).
+     ![image3](https://github.com/KPaccarizi/Color-detection-dataset-for-ColorBlind/assets/26025929/92f5f3ae-880d-47df-bead-4f87968dba94)
 
 3. **Workflow Diagram:**
    - Presentation of the workflow diagram outlining the steps involved in the color detection task.
@@ -19,6 +22,8 @@ The focus is on color detection for individuals with color blindness (ColorBlind
 
 4. **Block Diagram:**
    - Illustration of the block diagram representing the algorithm's architecture.
+     ![Screenshot 2023-11-24 183343](https://github.com/KPaccarizi/Color-detection-dataset-for-ColorBlind/assets/26025929/2cfb47b2-03e1-44ac-ade8-c3784c7e70c0)
+     
 
 ## Algorithm Implementation
 
@@ -39,4 +44,6 @@ To explore the color detection analysis:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Use your preferred Python environment to run the algorithm.
+   
+![red-color-detection-python-mini-project](https://github.com/KPaccarizi/Color-detection-dataset-for-ColorBlind/assets/26025929/16aa581b-b612-43c3-ab66-0a35b6bef52d)
 
