@@ -5,7 +5,8 @@ import argparse
 
 # Creating argument parser to take image path from command line
 ap = argparse.ArgumentParser()
-img_path = "images/pic1.jpg"  # args['image']
+img_path = "images/pic1.jpg"  
+# args['image']
 # Reading the image with OpenCV
 img = cv2.imread(img_path)
 
