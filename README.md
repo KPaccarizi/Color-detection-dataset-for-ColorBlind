@@ -15,6 +15,7 @@ The focus is on color detection for individuals with color blindness (ColorBlind
 
 3. **Workflow Diagram:**
    - Presentation of the workflow diagram outlining the steps involved in the color detection task.
+     ![workflow](https://github.com/KPaccarizi/Color-detection-dataset-for-ColorBlind/assets/26025929/bc6ddead-6257-43ef-a504-6279bc7142d9)
 
 4. **Block Diagram:**
    - Illustration of the block diagram representing the algorithm's architecture.
